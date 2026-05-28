@@ -1,0 +1,2 @@
+Warrior|W01|Arthur|10|500|50|Sword
+Mage|M01|Merlin|12|300|200|80
